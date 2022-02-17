@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,600&display=swap');
+body{
+    background-color: #fff;
+    background-image: url("kugan.jpg");
+    background-repeat: no-repeat;
+    background-position: 112% ; 
+    background-size: 40%;
+    text-align: left;
+}
+h1{
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family: "Open Sans 600";
+    font-weight: bold;
+    padding-right: 20%;
+    margin-bottom: 0.2px;
+}
+
+h3{
+    font-size: 30px;
+margin: 0 auto;
+font-family: "Open Sans";
+}
+
+.kuge
+{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: left;
+    font-family: "Open Sans";
+    margin: 0 60px 10px 0;
+    
+}
+.kuge.kuge_tinggi
+{
+margin-right: 50px;
+}
+.beti{
+    padding: 50px 10px auto auto;
+    height: 25px;
+    padding-right: 110px;
+    background-color: black;
+    color: #fff;
+}
+.arrowimg{
+    width: 3%;
+    margin: 30px 30px 0 40px;
+    
+}
+
+
+.box{
+    padding: 7% 15%;
+}
+
+.btn {
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    text-shadow: 1px 1px 3px #0a020a;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #999999;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
